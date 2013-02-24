@@ -24,7 +24,7 @@ config_file = File.open(ARGV[0])
 config = config_file.read
 config = JSON.parse(config)
 
-config.each do |configuration|
-  puts configuration
+config.each do |destination|
+  puts destination
 end
 
