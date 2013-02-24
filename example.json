@@ -2,6 +2,7 @@
   {
     "host": "example",
     "hostname": "www.example.org",
-    "user": "foo"
+    "user": "foo",
+    "port": 8888
   }
 ]
