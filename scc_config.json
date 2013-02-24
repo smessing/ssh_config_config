@@ -1,0 +1,13 @@
+[
+  {
+    "host" : "centaur",
+    "hostname" : "acm.jhu.edu",
+    "user" : "sam"
+  },
+  {
+    "host" : "github",
+    "hostname" : "github.com",
+    "user" : "smessing"
+  }
+
+]
